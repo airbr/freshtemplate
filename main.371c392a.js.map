@@ -1,0 +1,1 @@
+{"version":3,"sources":["js/main.js"],"names":["console","log"],"mappings":";AAGAA,QAAQC,IAAI","file":"main.371c392a.js","sourceRoot":"..","sourcesContent":["// We need at least one JS file in the bundle (even if it's blank) for Parcel to\n// attach the HMR behavior\n\nconsole.log('HELLO from main.js');"]}
